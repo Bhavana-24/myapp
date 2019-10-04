@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182537617120",
+    "firebase_url": "https://cmrblog-638e1.firebaseio.com",
+    "project_id": "cmrblog-638e1",
+    "storage_bucket": "cmrblog-638e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182537617120:android:73fe7d0ed9ce9d03",
+        "android_client_info": {
+          "package_name": "com.example.cmr_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182537617120-0ute82omjr85h3qqn3pmg545i0p1c08r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cmr_blog",
+            "certificate_hash": "ada104853178da14d0555d19ddc738c2f955f4a1"
+          }
+        },
+        {
+          "client_id": "182537617120-qleoav2g3ru7pghf01nda2pque49objt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YN9J7PtxkHfX5ZrArIw4oWJDfUH_SoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182537617120-qleoav2g3ru7pghf01nda2pque49objt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
